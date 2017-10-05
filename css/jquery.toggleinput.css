@@ -1,0 +1,23 @@
+/* Btn group *****************************************************************************************************/
+.has-toggle-input label, .has-toggle-input.radio label {
+    display: block;
+    float:left;
+    padding: 5px 10px;
+    margin: auto auto auto -1px;
+    background: #f4f4f4;
+    color: #444;
+    border: 1px #d0d0d0 solid;
+    line-height: normal;
+    overflow: hidden;
+}
+.has-toggle-input label.active {
+    background: #cb0928;
+    border-color: #cb0928;
+    color: white;
+    font-weight: bolder;
+}
+.has-toggle-input label:first-of-type {
+    margin-left: auto;
+}
+.has-toggle-input label:last-of-type {
+}
