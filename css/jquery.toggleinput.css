@@ -9,6 +9,7 @@
     border: 1px #d0d0d0 solid;
     line-height: normal;
     overflow: hidden;
+    cursor: pointer;
 }
 .has-toggle-input label.active {
     background: #cb0928;
